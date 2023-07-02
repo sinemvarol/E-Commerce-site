@@ -1,3 +1,7 @@
+This is food ordering website which is built with React.js, Next.js, Redux toolkit and tailwind css. There are 2 panel in the project, one of them is admin panel and other one is user panel.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
